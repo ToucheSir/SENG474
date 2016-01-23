@@ -1,1 +1,3 @@
-# SENG474
+# SENG474 - Data Mining
+
+Reddit comment analysis.
